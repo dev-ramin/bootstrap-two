@@ -1,1 +1,1 @@
-console.log[555];
+var price = 25;
