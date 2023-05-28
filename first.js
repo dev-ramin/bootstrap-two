@@ -17,6 +17,7 @@ console.log(onioPrice);
 
 var money = 500;
 var player = 10;
+player = 20;
 
 var totalCost = money / player;
 console.log(totalCost);
