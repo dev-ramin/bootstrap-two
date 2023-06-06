@@ -27,6 +27,10 @@ var firstName = Jennie;
 var lastName = Kim;
 var fullName = firstName + ' ' + lastName;
 var fullName = firstName + ' ' + lastName;
+var firstName = Jennie;
+var lastName = Kim;
+var fullName = firstName + ' ' + lastName;
+var fullName = firstName + ' ' + lastName;
 console.log(fullName);
 
 
