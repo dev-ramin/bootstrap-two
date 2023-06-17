@@ -10,3 +10,8 @@ console.log(something[2]);
 
 var positionIndex = something.indexOf(88);
 console.log(positionIndex);
+
+something.push('77');
+console.log(something);
+something.pop();
+console.log(something);
